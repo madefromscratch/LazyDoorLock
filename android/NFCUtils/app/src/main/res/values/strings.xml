@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC Utils</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="servicedesc">A NFC Card Emulation Service</string>
+    <string name="aiddescription">Door Unlock Application</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="OpenCloseStateFile">OpenCloseStateFile</string>
+</resources>
